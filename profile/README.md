@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/etkgobarber/.github/blob/main/assets/logotipo_gobarber.png" alt="GoBarber - Agendamento" width="420" />
+  <img src="https://github.com/etkgobarber/.github/blob/main/assets/go-barber-logo-transparente.png" alt="GoBarber - Agendamento" width="420" />
 </p>
 
 <h3 align="center">
@@ -79,7 +79,7 @@ Este repositório contém o **frontend (web)** da aplicação.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SUA-etkgobarber/frontend.git
+git clone https://github.com/etkgobarber/frontend.git
 
 # Acesse a pasta do projeto
 cd frontend
